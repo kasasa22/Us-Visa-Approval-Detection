@@ -49,3 +49,4 @@ for file in list_of_files:
             pass
     else:
         print(f"{filename} already exists at: {filepath}")
+        print('test')
